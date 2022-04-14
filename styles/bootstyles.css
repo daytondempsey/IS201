@@ -1,0 +1,39 @@
+header{
+    background-color: black;
+    text-align: right;
+    height: 100px;
+    line-height: 100px;
+    color: white;
+}
+Footer{
+    background-color: black;
+    text-align: center;
+    height: 100px;
+    color: white;
+}
+a{
+    color: white;
+    text-align: right;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.anchor{
+    font-weight: bold;
+    color: black;
+    background-color: azure;
+    color: black;
+}
+.anc{
+    color: black;
+}
+.tableauplaceholder{
+    width: 750;
+}
+.center{
+    text-align: center;
+}
